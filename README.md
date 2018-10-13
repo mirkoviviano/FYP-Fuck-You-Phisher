@@ -44,7 +44,7 @@ Feel free to contribute and give me tips. I am here to learn.
 Support me on 
 	[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/P5P7KJLY)
     or
-    [Patreon](https://www.patreon.com/mirkoviviano)
+	[![Patreon](https://www.andreaciraolo.com/patreon/img/patreon.png)](https://www.patreon.com/mirkoviviano)
 
 ## Authors
 

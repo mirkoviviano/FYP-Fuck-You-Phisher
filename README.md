@@ -33,6 +33,16 @@ python FYP.py
 ```
 and it will ask you for parameters.
 
+### Parameters
+You need the name value of the HTML input on the phisher website. 
+For example:
+``` 
+<input type="text" name="email_address" placeholder="Email"/>
+```
+"email_address" is what you are looking for. Do the same with password. 
+
+You can find these two paramenters either looking in the HTML or ispecting the Network request.
+
 ## Built With
 
 * [Python](https://www.python.org/)
